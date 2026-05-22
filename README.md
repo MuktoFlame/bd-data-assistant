@@ -48,7 +48,7 @@ bangladesh-data-assistant/
 │   ├── hospitals.db
 │   └── restaurants.db
 ├── notebooks/
-│   └── Bangladesh_AI_Agent.ipynb   # Google Colab demo
+│   └── bd_data_assistant.ipynb   # Google Colab demo
 ├── setup_databases.py         # Download HuggingFace datasets → SQLite
 ├── requirements.txt
 └── README.md
@@ -140,7 +140,7 @@ The `WebSearchTool` tries providers in this priority order:
 
 ## 📓 Google Colab
 
-Open `notebooks/Bangladesh_AI_Agent.ipynb` in Google Colab for a full interactive demo:
+Open `notebooks/bd_data_assistant.ipynb` in Google Colab for a full interactive demo:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YiXp2YlEPelfS8lVCBgMICiA40fmwXdz?authuser=1#scrollTo=vHmLNXNPwO74)
 
