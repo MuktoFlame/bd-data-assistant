@@ -1,0 +1,20 @@
+# Core LangChain
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+
+# LLM provider — Google Gemini (free via AI Studio)
+langchain-google-genai>=2.0.0
+
+# HuggingFace datasets (for setup_databases.py)
+datasets>=2.20.0
+pandas>=2.0.0
+
+# Web search backends (install at least one)
+ddgs>=7.0.0                     # free, no API key needed
+tavily-python>=0.3.0            # optional: set TAVILY_API_KEY
+google-search-results>=2.4.2    # optional: set SERPAPI_API_KEY (SerpAPI)
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
