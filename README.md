@@ -142,7 +142,7 @@ The `WebSearchTool` tries providers in this priority order:
 
 Open `notebooks/bd_data_assistant.ipynb` in Google Colab for a full interactive demo:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YiXp2YlEPelfS8lVCBgMICiA40fmwXdz?authuser=1#scrollTo=vHmLNXNPwO74)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MuktoFlame/bd-data-assistant/blob/main/notebooks/bd_data_assistant.ipynb)
 
 ---
 
